@@ -117,7 +117,7 @@
                 </el-icon>
                 <template #title>新增管理员</template>
             </el-menu-item>
-            <el-menu-item index="10">
+            <el-menu-item index="/Manager/AddAdminInfo">
                 <el-icon>
                     <Edit />
                 </el-icon>
