@@ -1,5 +1,5 @@
 <template>
-    <el-menu background-color="#304156" text-color="#ffffff" class="el-menu-vertical-demo" :unique-opened="true"
+    <el-menu background-color="#031529" text-color="#ffffff" class="el-menu-vertical-demo" :unique-opened="true"
         :collapse-transition="false" :router="true" :collapse="isCollapse">
         <el-menu-item>
             <el-icon size="28px" class="is-loading">
